@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "837759484127",
+    "firebase_url": "https://desi-karaoke.firebaseio.com",
+    "project_id": "desi-karaoke",
+    "storage_bucket": "desi-karaoke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837759484127:android:adf4e2fae0543b07",
+        "android_client_info": {
+          "package_name": "com.desikaraoke.bluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837759484127-4mqakda2mtq2ej7t8koire3lr8skps4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.bluetooth",
+            "certificate_hash": "abc45d52eeef49f05921284048072fee1015440f"
+          }
+        },
+        {
+          "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEw7_Sd8WufrbG51kvu04ndKVtzVCQrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837759484127-13s6a8hn77l11dcpi4d044ft7lclqirc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desikaraoke.singalong"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837759484127:android:d4b12206d482261f",
+        "android_client_info": {
+          "package_name": "com.desikaraoke.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837759484127-7grgjcvavoq3r0jr26j210rnbc8laoik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.lite",
+            "certificate_hash": "b6f07d8b10199b5c223739c80e4c5d7dad61a344"
+          }
+        },
+        {
+          "client_id": "837759484127-vnf0mnqc4cbhu7pafiuv1u115ge7ct4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.lite",
+            "certificate_hash": "4ba4e93d3e2ca972c9bc2d2eb7a8f383dd2690fa"
+          }
+        },
+        {
+          "client_id": "837759484127-uqoshn815m1uiada1tc9smfl4avsshn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.lite",
+            "certificate_hash": "9aee74d8889d801c9ee9f7143041d676d8b3eb44"
+          }
+        },
+        {
+          "client_id": "837759484127-pe9u20p865dgj9o2vv7bnv702ahigj8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.lite",
+            "certificate_hash": "57c7bc57dcef52400932de34dfe7e2eabc81fb91"
+          }
+        },
+        {
+          "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEw7_Sd8WufrbG51kvu04ndKVtzVCQrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837759484127-13s6a8hn77l11dcpi4d044ft7lclqirc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desikaraoke.singalong"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837759484127:android:51ea9ff0de1a2859b8a96a",
+        "android_client_info": {
+          "package_name": "com.desikaraoke.lite.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEw7_Sd8WufrbG51kvu04ndKVtzVCQrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837759484127-13s6a8hn77l11dcpi4d044ft7lclqirc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desikaraoke.singalong"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837759484127:android:377f7d3352f2d79c",
+        "android_client_info": {
+          "package_name": "com.desikaraoke.singalong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837759484127-cq4lhm7nth42dc34clqa705rboc0352b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.singalong",
+            "certificate_hash": "8ebef7477bb35ccc755778de001d0f4a0ba71552"
+          }
+        },
+        {
+          "client_id": "837759484127-ferq313ju6s4n9sv3i3q6r560oj58vud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.singalong",
+            "certificate_hash": "9aee74d8889d801c9ee9f7143041d676d8b3eb44"
+          }
+        },
+        {
+          "client_id": "837759484127-mnm98r25rehf67q4688dpg3817qkmc3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.singalong",
+            "certificate_hash": "7bb499dbdbc14a26e39e2cdb6670978a5809d3d0"
+          }
+        },
+        {
+          "client_id": "837759484127-0r1nmspbek263sia28hhnf2hrh9edhbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desikaraoke.singalong",
+            "certificate_hash": "6636d68215858c153d987e929506e3c094f09ee4"
+          }
+        },
+        {
+          "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEw7_Sd8WufrbG51kvu04ndKVtzVCQrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837759484127-orc1b2i495rq62s4i1gab2dfjblcbetp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837759484127-13s6a8hn77l11dcpi4d044ft7lclqirc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desikaraoke.singalong"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

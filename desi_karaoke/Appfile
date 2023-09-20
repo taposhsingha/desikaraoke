@@ -1,0 +1,2 @@
+json_key_file("D:/Downloads/api-8563470192358553592-653473-1b48cfc35550.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.desikaraoke.lite") # e.g. com.krausefx.app
